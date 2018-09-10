@@ -1,4 +1,4 @@
-# BloodDonors
+# Blood Donors
 Predicting blood donors from donation data. There are two Jupyter Notebook files.
 
 [Analysis and Logistic Model.ipynb](https://github.com/sundodger97/BloodDonors/blob/master/Analysis%20and%20Logistic%20Model.ipynb)
